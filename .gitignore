@@ -1,0 +1,8 @@
+.DS_Store
+.settings/
+.classpath
+.project
+.springBeans
+target/
+derby.log
+metastore_db
